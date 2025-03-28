@@ -68,7 +68,7 @@ function App() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <img 
-            src="/img/logo_2.png" 
+            src="img/logo_2.png" 
             alt="PACA - Let's Celebrate!" 
             className="h-32 mx-auto mb-4"
           />
